@@ -1,0 +1,2 @@
+# Web-Blocker-App
+Often, we are too driven by some sites ( social networking sites,etc) which kills a lot of our valuable time, which we realize later. So this app works in the background to block  some of the defined websites during your working hours, by changing their IP address in official  "hosts" file to local host. Also, the .pyw file is updated as a scheduled task in the Task Scheduler of Windows and starts to run on system startup.
